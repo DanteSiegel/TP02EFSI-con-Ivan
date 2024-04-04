@@ -1,0 +1,49 @@
+body{
+background-color: #ffcbdb;
+
+}
+
+
+label {
+    display: block;
+    text-align: center;
+    font-family: "Segoe UI";
+    font-size: xx-large;
+    margin: 0 auto; 
+}
+
+
+input{
+
+    display: 	block;
+    text-align: center;
+    font-family: "Segoe UI";
+    font-size: xx-large;
+    font-size: larger;
+    margin: 0 auto;
+}
+
+ul{
+    padding-top: 10px;
+    list-style-type: none; 
+    display: 	block;
+    text-align: center;
+    font-family: "Segoe UI";
+    font-size: xx-large;
+    font-size: larger;
+    margin: 0 auto;
+
+}
+
+button{
+      
+        list-style-type: none; 
+        display: 	block;
+        text-align: center;
+        font-family: "Segoe UI";
+        font-size: xx-large;
+        font-size: larger;
+        margin: 0 auto;
+    
+    
+}
